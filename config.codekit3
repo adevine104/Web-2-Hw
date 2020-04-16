@@ -54,6 +54,94 @@
 		"oAP": "/dev/footer.html",
 		"oF": 1
 		},
+	"/dev/img/footer/logo.png": {
+		"ft": 32768,
+		"iS": 2694,
+		"oA": 0,
+		"oAP": "/dev/img/footer/logo.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/dev/img/section-1/hero.jpg": {
+		"ft": 16384,
+		"iS": 85793,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dev/img/section-1/hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/dev/img/section-2/popcorn.jpg": {
+		"ft": 16384,
+		"iS": 63558,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dev/img/section-2/popcorn.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/dev/img/section-3/hero-2.jpg": {
+		"ft": 16384,
+		"iS": 150254,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dev/img/section-3/hero-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/dev/img/section-5/gallery-1.jpg": {
+		"ft": 16384,
+		"iS": 69850,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dev/img/section-5/gallery-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/dev/img/section-5/gallery-2.jpg": {
+		"ft": 16384,
+		"iS": 20348,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dev/img/section-5/gallery-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/dev/img/section-5/gallery-3.jpg": {
+		"ft": 16384,
+		"iS": 30641,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dev/img/section-5/gallery-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/dev/img/section-6/circle-mask.jpg": {
+		"ft": 16384,
+		"iS": 32869,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dev/img/section-6/circle-mask.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/dev/index.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -255,6 +343,14 @@
 		"oA": 1,
 		"oAP": "/dev/section-5.html",
 		"oF": 1
+		},
+	"/dev/section-6.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/dev/section-6.html",
+		"oF": 0
 		},
 	"/README.md": {
 		"cB": 0,
