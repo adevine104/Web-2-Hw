@@ -1,0 +1,22 @@
+/* =============
+    Section 6
+============= */
+
+#section-6{
+
+    #section-6-container {
+
+        display: grid;
+        grid-template-columns: 10px auto 10px;
+        grid-template-areas: ". section-6 ."; 
+
+        img {
+            width: 100%;
+            padding-top: 40px;
+            padding-bottom: 40px; }
+    
+    #section-6-content {
+        grid-area: section-6;
+        }
+    }
+}
