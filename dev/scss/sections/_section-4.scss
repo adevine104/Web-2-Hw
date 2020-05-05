@@ -7,9 +7,10 @@
     #section-4-container {
         display: grid;
         grid-template-columns: 15px auto 15px;
-        grid-template-areas: ". section-1 ."; 
+        grid-template-areas: ". section-4 ."; 
     
     #section-4-content {
-          grid-area: section-1; }
+          grid-area: section-4; }
+          text-align: center;
     }
 }
