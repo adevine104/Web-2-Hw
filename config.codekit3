@@ -32,68 +32,68 @@
 		},
 	"/deploy/img/section-1/hero.jpg": {
 		"ft": 16384,
-		"iS": 79107,
+		"iS": 492203,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/deploy/img/section-1/hero.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/deploy/img/section-2/popcorn.jpg": {
 		"ft": 16384,
-		"iS": 59293,
+		"iS": 70115,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/deploy/img/section-2/popcorn.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/deploy/img/section-3/hero-2.jpg": {
 		"ft": 16384,
-		"iS": 150254,
+		"iS": 964269,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/deploy/img/section-3/hero-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/deploy/img/section-5/gallery-1.jpg": {
 		"ft": 16384,
-		"iS": 69850,
+		"iS": 204628,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/deploy/img/section-5/gallery-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/deploy/img/section-5/gallery-2.jpg": {
 		"ft": 16384,
-		"iS": 20348,
+		"iS": 138589,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/deploy/img/section-5/gallery-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/deploy/img/section-5/gallery-3.jpg": {
 		"ft": 16384,
-		"iS": 30641,
+		"iS": 284968,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/deploy/img/section-5/gallery-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/deploy/img/section-6/circle-mask.jpg": {
@@ -126,6 +126,72 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"/design/assets/addy-ire-Jz4X5UOoVfs-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 4113836,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/design/assets/addy-ire-Jz4X5UOoVfs-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/design/assets/alex-litvin-MAYsdoYpGuk-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 2556938,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/design/assets/alex-litvin-MAYsdoYpGuk-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/design/assets/aneta-pawlik-h5cFbbecEuY-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 797522,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/design/assets/aneta-pawlik-h5cFbbecEuY-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/design/assets/jakob-owens-CiUR8zISX60-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 4179908,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/design/assets/jakob-owens-CiUR8zISX60-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/design/assets/krists-luhaers-AtPWnYNDJnM-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 4999088,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/design/assets/krists-luhaers-AtPWnYNDJnM-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/design/assets/noom-peerapong-2uwFEAGUm6E-unsplash.jpg": {
+		"ft": 16384,
+		"iS": 2164713,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/design/assets/noom-peerapong-2uwFEAGUm6E-unsplash.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/design/structure-tags.sketch": {
 		"cB": 0,
 		"ft": 8192,
@@ -147,8 +213,8 @@
 		"ft": 2048,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/deploy/index.html",
-		"oF": 2
+		"oAP": "/dev/index.html",
+		"oF": 0
 		},
 	"/dev/js/scripts.js": {
 		"bF": 0,
@@ -377,8 +443,8 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/deploy/css/styles.css",
-		"oF": 2,
+		"oAP": "/dev/scss/styles.css",
+		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
