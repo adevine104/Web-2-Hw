@@ -4,58 +4,106 @@
 
 #section-2{
 
-    @include xl{
-        display: grid;
-        grid-template-columns: auto 1200px auto;
-        grid-template-areas: ". section-2-desktop .";
-    }
+    @include xl {
+          display: grid;
+          grid-template-columns: auto 1200 auto;
+          grid-template-areas: ". section-2-desktop ."; 
+        } 
+      
+      @include lg {
+          display: grid;
+          grid-template-columns: 50% auto;
+          grid-template-areas: "img section-2-content";
+          margin: 60px 0px 60px 0px; 
+        } 
+      
+    #section-2-desktop {
 
-    #section-2-desktop{
+      @include md {
+          display: grid;
+          grid-template-columns: 40% auto;
+          grid-template-areas: "img section-2-content";
+          margin: 60px 0px 60px 0px; } 
+      
+      aside {
+        background-image: url('../img/section-2/popcorn.jpg');
+        height: 80vh;
+        background-position: center;
+        background-size: cover; }
 
-        @include md{
-            display: grid;
-            grid-template-columns: 40% auto;
-            grid-template-areas: "section-2-img section-2";
-        }
+        @include md {
+            aside {
+                height: 45vh; } }
 
         @include lg{
-            grid-area: section-2-desktop;
-        }
+          aside {
+            height: 90vh; } }
 
-        @include xl{
-            grid-area: section-2-desktop;
+        @include xl {
+          grid-template-columns: 50%;
         }
-
-        aside{
-        
-            img{
-                width: 100%;
-            }
-        }
-    
-    
+      
     #section-2-container {
         display: grid;
         grid-template-columns: 15px auto 15px;
-        grid-template-areas: ". callout ."; 
-    
-        @include md{
-           grid-template-areas: 10% auto 10%;
+        grid-template-areas: ". section-2-content .";
+        align-items: center;
+        margin: 65px 0px 65px 0px;
+        text-align: center; 
+       
+        hr {
+          height: 3px;
+          background-color: #B7A78D;
+          border: none; }
+        
+          h3 {
+          font-family: 'Nunito';
+          line-height: 2.5rem;
+          font-size: 1.0625rem;
+          margin: 20px 0px 5px 0px; }
+          
+          @include md {
+          
+            h3 {
+              line-height: 2.5rem;
+              font-size: 1.5rem; } }
+
+            p {
+                margin: 0px 0px 20px 0px;
+                font-family: 'Noto Serif';
+                line-height: 2.5rem;
+                font-size: 1rem; }
+
+          @include md {
+            p {
+              line-height: 2.5rem;
+              font-size: 1.125rem; } }
+
+        @include md {
+            text-align: left; }
+
+        @include xl {
+            text-align: left;
+            margin-left: 20px; 
         }
+        
 
-        @include md{
-            grid-template-areas: auto 1200px auto;
-         }
+           h3 {
+              margin: 20px 0px 0px 0px; }
+           p {
+              margin: 0px 0px 20px 0px; } 
 
+        @include lg {
+            margin: 20px 0px 20px 0px; } 
+        
+        
         #section-2-content {
-          grid-area: callout; 
-        }
+          grid-area: section-2-content; }
     }
 
-    #section-2-img{
-        grid-area: section-2-img;
-        vertical-align: middle;
-    }
-
+        #section-2-img {
+            grid-area: img; }
+      
+            
     }
 }

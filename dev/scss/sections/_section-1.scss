@@ -4,15 +4,21 @@
 
 #section-1 {
 
-#section-1-container {
-    display: grid;
-    grid-template-columns: 15px auto;
-    grid-template-areas: ". section-1 ."; 
+background-image: url('../img/section-1/hero.jpg');
+//border: 1px solid red;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+height: 50vh; 
 
-#section-1-content {
-      grid-area: section-1; }
+@include md{
+    height: 50vh;
+    background-position: center -100; } 
+
+@include lg {
+    height: 90vh; } 
+
+@include xl{
+    height: 90vh; } 
+
 }
-  
-  img {
-    width: 100%; }
-  }

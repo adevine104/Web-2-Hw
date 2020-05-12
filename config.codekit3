@@ -38,7 +38,7 @@
 		"oAP": "/deploy/img/section-1/hero.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/deploy/img/section-2/popcorn.jpg": {
@@ -49,7 +49,7 @@
 		"oAP": "/deploy/img/section-2/popcorn.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/deploy/img/section-3/hero-2.jpg": {
@@ -60,7 +60,7 @@
 		"oAP": "/deploy/img/section-3/hero-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/deploy/img/section-5/gallery-1.jpg": {
@@ -71,7 +71,7 @@
 		"oAP": "/deploy/img/section-5/gallery-1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/deploy/img/section-5/gallery-2.jpg": {
@@ -82,7 +82,7 @@
 		"oAP": "/deploy/img/section-5/gallery-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/deploy/img/section-5/gallery-3.jpg": {
@@ -93,7 +93,7 @@
 		"oAP": "/deploy/img/section-5/gallery-3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/deploy/img/section-6/circle-mask.jpg": {
@@ -287,19 +287,6 @@
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/dev/scss/layout/_header.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
-	"/dev/scss/sections/_footer.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "/dev/scss/sections/_footer.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
